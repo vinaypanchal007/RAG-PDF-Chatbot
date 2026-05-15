@@ -1,0 +1,19 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-ollama
+
+# PDF loading
+pypdf
+
+# Embeddings
+sentence-transformers
+
+# Vector store
+faiss-cpu
+
+# HuggingFace hub (required by langchain-huggingface)
+huggingface-hub
